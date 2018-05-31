@@ -31,9 +31,13 @@ cc -std=c99 -Wall hello.c -o hello_world
 
 Run with `./c/hello/hello_world`.
 
+## Examples
+
+Under `/c` is my example c code.
 
 ## Debugging
 
 - [lldb](https://lldb.llvm.org/)
 
 ## Testing
+
